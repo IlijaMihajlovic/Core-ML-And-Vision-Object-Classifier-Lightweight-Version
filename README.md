@@ -34,6 +34,8 @@ ___
 
 ___
 
+## The Project
+
 All the code we need to start traing our model are those three lines of code
 
 ```swift
@@ -56,6 +58,15 @@ After its done we should see a card with three labels: the Training, Validation,
 ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
 
 While training, Xcode distributes the training data into 80-20. After training 80% of training data, Xcode runs the classifier on the remaining 20%. This is what Validation refers to: the percentage of training images the classifier was able to get right. Usually, this can vary because Xcode may not always split the same data
+
+___
+
+Lets give the classifier now some tasting data and see the evaluation result
+
+![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/Testing%20result%20evaluation.png)
+
+And Voila! We have a AnimalCassifura.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
+
 
 ___
 
