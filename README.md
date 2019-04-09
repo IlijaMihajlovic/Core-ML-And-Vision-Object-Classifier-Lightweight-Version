@@ -1,4 +1,4 @@
-# Core-ML-And-Vison-Object-Detection-Lightweight2
+# Core-ML-And-Vison-Object-Classifier-Lightweight
 
 Core ML and Vison object Classifier With An Lightweight Trained Model.
 The model is trained and tested with Create ML straight from Xcode Playgrounds with the dataset i provided.
