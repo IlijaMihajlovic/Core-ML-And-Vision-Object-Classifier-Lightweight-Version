@@ -50,18 +50,20 @@ ___
 * And that’s it. The next thing is to eneble the Live View feature to see the visual interface!
 In the Live View we drop the entire traing foleder into the area and Create ML starts to train our image classifier.
 
- ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/LiveView.png)
+![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/LiveView.png)
 
 ___
 
 ### Training Accuracy
-* After its done we should see a card with three labels: the Training, Validation, and Evaluation. Training refers to the percentage of training data Xcode was successfully able to train. This should read 100%.
 
- ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
+* After its done we should see a card with three labels: the Training, Validation, and Evaluation. Training refers to the percentage of training data Xcode was successfully able to train. This should read 100%.
 
 While training, Xcode distributes the training data into 80-20. After training 80% of training data, Xcode runs the classifier on the remaining 20%. This is what Validation refers to: the percentage of training images the classifier was able to get right. Usually, this can vary because Xcode may not always split the same data
 
+![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
+
 ___
+### Testing Result Evaluation
 
 Lets give the classifier now some tasting data and see the evaluation result
 
@@ -70,6 +72,8 @@ Lets give the classifier now some tasting data and see the evaluation result
 And Voila! We have a AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
 
 ___
+
+### Model Metadata
 
 After all that is done we can see the inputs our model aspects and the outputs it generates, as well as auto genereted model helper class.
 
