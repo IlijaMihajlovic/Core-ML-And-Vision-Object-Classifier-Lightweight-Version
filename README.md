@@ -31,22 +31,23 @@ ___
 ## Example how the UI looks
 * 
 
-
+In progress...
 ___
 
 ## The Project
 
-All the code we need to start traing our model are those three lines of code
+* All the code we need to start traing our model are those three lines of code
 
-```swift
+ ```swift
 
-import CreateMLUI
+ import CreateMLUI
  
-let builder = MLImageClassifierBuilder()
-builder.showInLiveView()
+ let builder = MLImageClassifierBuilder()
+ builder.showInLiveView()
 
 ```
-And that’s it. The next thing is to eneble the Live View feature to see the visual interface!
+### LiveView
+* And that’s it. The next thing is to eneble the Live View feature to see the visual interface!
 In the Live View we drop the entire traing foleder into the area and Create ML starts to train our image classifier.
 
 ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/LiveView.png)
@@ -65,10 +66,14 @@ Lets give the classifier now some tasting data and see the evaluation result
 
 ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/Testing%20result%20evaluation.png)
 
-And Voila! We have a AnimalCassifura.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
-
+And Voila! We have a AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
 
 ___
+
+After all that is done we can see the inputs our model aspects and the outputs it generates, as well as auto genereted model helper class.
+
+![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/Model%20Metadata.png)
+
 
 ___
 
