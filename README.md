@@ -36,7 +36,7 @@ ___
 
 ## The Project
 
-* All the code we need to start traing our model are those three lines of code
+* All the code we need to start traing our model are those three lines of code. And that’s it
 
  ```swift
 
@@ -47,7 +47,7 @@ ___
 
 ```
 ### LiveView
-* And that’s it. The next thing is to eneble the Live View feature to see the visual interface!
+* The next thing is to eneble the Live View feature to see the visual interface!
 In the Live View we drop the entire traing foleder into the area and Create ML starts to train our image classifier.
 
 ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/LiveView.png)
