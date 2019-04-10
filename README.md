@@ -29,7 +29,7 @@ ___
 ___
 
 ## Example how the UI looks
-* 
+
 
 In progress...
 ___
@@ -63,6 +63,7 @@ While training, Xcode distributes the training data into 80-20. After training 8
 ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
 
 ___
+
 ### Testing Result Evaluation
 
 * Lets give the classifier now some tasting data and see the evaluation result
@@ -104,5 +105,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+SOFTWARE.```
