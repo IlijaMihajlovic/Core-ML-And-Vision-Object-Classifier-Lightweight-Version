@@ -4,7 +4,7 @@
 ![swift-version](https://img.shields.io/badge/swift-4.2-Orange.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-Lightgrey.svg)
 
-Core ML and Vison object Classifier With An Lightweight Trained Model.
+Core ML and Vision object Classifier With An Lightweight Trained Model.
 The model is trained and tested with Create ML straight from Xcode Playgrounds with the dataset I provided.
 Core ML and Vision object Classifier With An Lightweight Trained Model. The model is trained and tested with Create ML straight from Xcode Playgrounds with the dataset I provided.
 
