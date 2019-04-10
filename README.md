@@ -1,4 +1,4 @@
-# Core-ML-And-Vison-Object-Classifier-Lightweight
+# Core-ML-And-Vision-Object-Classifier-Lightweight
 
 ![platform-ios](https://img.shields.io/badge/platform-ios-Blue.svg)
 ![swift-version](https://img.shields.io/badge/swift-4.2-Orange.svg)
