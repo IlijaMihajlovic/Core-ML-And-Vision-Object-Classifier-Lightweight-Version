@@ -31,7 +31,7 @@ ___
 ## Example how the UI looks
 
 
-In progress...
+In progress... 
 ___
 
 ## The Project
