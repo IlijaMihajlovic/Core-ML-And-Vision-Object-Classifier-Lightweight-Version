@@ -78,7 +78,7 @@ ___
 
 * After all that is done we can see the inputs our model aspects and the outputs it generates, as well as auto genereted model helper class.
 
-![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/Model%20Metadata.png)
+   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/Model%20Metadata.png)
 
 
 ___
