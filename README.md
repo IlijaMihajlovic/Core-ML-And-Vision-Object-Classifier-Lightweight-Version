@@ -33,6 +33,7 @@ ___
 * This the main screen with the custom toolbar, classification label and camera button.
 
    ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Hand.png)
+___
    
 * Here we can see when the model recognizese our fllufy frend mister cat with high accurecy even it never saw this image befor or in different words the traing and testing dataset we provided the model was withouth this image.
 
