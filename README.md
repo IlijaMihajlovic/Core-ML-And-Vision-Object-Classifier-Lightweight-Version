@@ -36,7 +36,7 @@ ___
 
 ## The Project
 
-* All the code we need to start traing our model are those three lines of code. And that’s it
+* All the code we need to start traing our model are those three lines of code. And that’s it.
 
  ```swift
 
@@ -58,7 +58,7 @@ ___
 
 * After its done we should see a card with three labels: the Training, Validation, and Evaluation. Training refers to the percentage of training data Xcode was successfully able to train. This should read 100%. 
 
-   While training, Xcode distributes the training data into 80-20. After training 80% of training data, Xcode runs the     classifier on the remaining 20%. This is what Validation refers to: the percentage of training images the classifier was   able to get right. Usually, this can vary because Xcode may not always split the same data
+   While training, Xcode distributes the training data into 80-20. After training 80% of training data, Xcode runs the     classifier on the remaining 20%. This is what Validation refers to: the percentage of training images the classifier was   able to get right. Usually, this can vary because Xcode may not always split the same data.
 
    ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
 
@@ -66,7 +66,7 @@ ___
 
 ### Testing Result Evaluation
 
-* Lets give the classifier now some tasting data and see the evaluation result
+* Lets give the classifier now some tasting data and see the evaluation result.
 
    <img src="https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Testing%20result%20evaluation.jpg" width="500" height="1000">
 
@@ -84,7 +84,7 @@ ___
 ___
 ### Camera Usage Description And Photo Library Usage Description  
 
-* At the end I added the "Camera Usage Description" And "Photo Library Usage" Description to info.plist 
+* At the end I added the "Camera Usage Description" And "Photo Library Usage Description" to info.plist 
 so we can access the camera and photo library.
 
 Photo Library Usage Description:
