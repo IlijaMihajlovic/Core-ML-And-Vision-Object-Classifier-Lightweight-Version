@@ -70,7 +70,7 @@ ___
 
    <img src="https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Testing%20result%20evaluation.jpg" width="500" height="1000">
 
-And Voila! We have a AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
+   And Voila! We have a AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
 
 ___
 
