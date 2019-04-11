@@ -68,7 +68,7 @@ ___
 
 * Lets give the classifier now some tasting data and see the evaluation result
 
-<img src="https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/Testing%20result%20evaluation.png" width="900" height="600">
+<img src="https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Testing%20result%20evaluation.jpg" width="450" height="900">
 
 And Voila! We have a AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
 
