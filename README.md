@@ -82,6 +82,22 @@ ___
 
 
 ___
+### Camera Usage Description And Photo Library Usage Description  
+
+* At the end I added the "Camera Usage Description" And "Photo Library Usage" Description to info.plist 
+so we can access the camera and photo library.
+
+Photo Library Usage Description:
+```swift
+  <key>NSPhotoLibraryUsageDescription</key>
+      <string>Photo Library Needed For Object Detection And Classification</string>
+```
+Camera Usage Description:
+```swift   
+   <key>NSCameraUsageDescription</key>
+        <string>Camera Needed For Object Detection And Classification</string>
+```
+___
 
 ## License
 ```
