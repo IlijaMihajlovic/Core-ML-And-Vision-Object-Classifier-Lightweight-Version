@@ -137,10 +137,10 @@ class MainVC: UIViewController{
         customToolBar.anchor(top: nil, bottom: captureImageView.bottomAnchor, leading: captureImageView.leadingAnchor, trailing: captureImageView.trailingAnchor, size: .init(width: 0, height: 50))
         
         //CameraButton Constraint
-        cameraButton.anchor(top: customToolBar.topAnchor, bottom: customToolBar.bottomAnchor, leading: customToolBar.leadingAnchor, trailing: nil, padding: .init(top: 5, left: 5, bottom: 5, right: 0 ), size: .init(width: 40, height: 40))
+        cameraButton.anchor(top: customToolBar.topAnchor, bottom: customToolBar.bottomAnchor, leading: customToolBar.leadingAnchor, trailing: nil, padding: .init(top: 5, left: 15, bottom: 10, right: 0 ), size: .init(width: 40, height: 40))
         
         //ClassificationLabel Constraint
-        classificationLabel.anchor(top: nil, bottom: customToolBar.topAnchor, leading: customToolBar.leadingAnchor, trailing: customToolBar.trailingAnchor,padding: .init(top: 0, left: 10, bottom: 30, right: 0), size: .init(width: 0, height: 50))
+        classificationLabel.anchor(top: nil, bottom: customToolBar.topAnchor, leading: customToolBar.leadingAnchor, trailing: customToolBar.trailingAnchor,padding: .init(top: 0, left: 10, bottom: 20, right: 0), size: .init(width: 0, height: 50))
         
         //PresentImageView Constraint
         presentImageView.anchor(top: nil, bottom: nil, leading: nil, trailing: nil, size: .init(width: 350, height: 350))
