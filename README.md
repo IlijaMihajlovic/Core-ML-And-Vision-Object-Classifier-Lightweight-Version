@@ -60,7 +60,7 @@ ___
 
    While training, Xcode distributes the training data into 80-20. After training 80% of training data, Xcode runs the     classifier on the remaining 20%. This is what Validation refers to: the percentage of training images the classifier was   able to get right. Usually, this can vary because Xcode may not always split the same data
 
-![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
+   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 * Lets give the classifier now some tasting data and see the evaluation result
 
-<img src="https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Testing%20result%20evaluation.jpg" width="500" height="1000">
+   <img src="https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Testing%20result%20evaluation.jpg" width="500" height="1000">
 
 And Voila! We have a AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
 
