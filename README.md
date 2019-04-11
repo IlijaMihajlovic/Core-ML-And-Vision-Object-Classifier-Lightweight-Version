@@ -41,7 +41,7 @@ ___
 our classification label: I need more data!😬🔍.   
 This happened because the model was trained only to recognize only; dogs🐶, pandas🐼 and cats🐱.
 
-   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/CatAndFlowers.png)
+   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/catAndFlowers.png)
 ___
 
 * And last we have two images the model recognized likewise with high accuracy.
@@ -82,8 +82,8 @@ ___
 
 ### Testing Result Evaluation
 
-* Lets give the classifier now some tasting data and see the evaluation result.
-   And Voila! We have a AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
+* Lets give the classifier now some tasting data, after the testing finished check the the evaluation result if everything is as expected.
+    Voila! We have an AnimalClassifier.mlmodel ready to recognize obviously only three kinds of animals (pandas, cats and dogs) but that's what you get for 37KB of size.
 
 ___
 
