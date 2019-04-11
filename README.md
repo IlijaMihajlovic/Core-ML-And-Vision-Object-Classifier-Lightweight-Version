@@ -30,8 +30,10 @@ ___
 
 ## Example how the UI looks
 
+* This the main screen with the custom toolbar, classification label and camera button.
 
-In progress... 
+   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Hand.png)
+
 ___
 
 ## The Project
