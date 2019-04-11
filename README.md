@@ -42,7 +42,11 @@ our classification label: I need more data!😬🔍.
 This happened because the model was trained only to recognize only; dogs🐶, pandas🐼 and cats🐱.
 
    ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/CatAndFlowers.png)
+___
 
+* And last we have two images the model recognized likewise with high accuracy.
+
+   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/pandaAndDog.png)
 ___
 
 ## The Project
