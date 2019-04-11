@@ -38,14 +38,15 @@ ___
 
 * All the code we need to start traing our model are those three lines of code. And that’s it.
 
- ```swift
+    ```swift
 
- import CreateMLUI
+   import CreateMLUI
  
- let builder = MLImageClassifierBuilder()
- builder.showInLiveView()
+   let builder = MLImageClassifierBuilder()
+   builder.showInLiveView()
 
-```
+   ```
+   
 ### LiveView
 * The next thing is to eneble the Live View feature to see the visual interface!
 In the Live View we drop the entire traing foleder into the area and Create ML starts to train our image classifier.
