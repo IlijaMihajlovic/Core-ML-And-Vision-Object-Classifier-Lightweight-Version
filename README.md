@@ -34,9 +34,9 @@ ___
    ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Hand.png)
 ___
    
-* Here we can see when the model recognizese our fllufy frend mister cat with high accurecy even it never saw this image befor or in different words the traing and testing dataset we provided the model was withouth this image.
+* Here we can see when the model recognizes our fluffy friend mister cat with high accurecy even it never saw this image before or in different words the training and testing dataset we provided the model was without this image.
 
-   On the other side is an image the model was unable to recognize and we get the following messagethough 
+   On the other side is an image the model was unable to recognize and we get the following message through
 our classification label: I need more data!😬🔍.   
 This happened because the model was trained only to recognize only; dogs🐶, pandas🐼 and cats🐱.
 
