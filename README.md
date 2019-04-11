@@ -50,7 +50,7 @@ ___
 * The next thing is to eneble the Live View feature to see the visual interface!
 In the Live View we drop the entire traing foleder into the area and Create ML starts to train our image classifier.
 
-![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/LiveView.png)
+   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/LiveView.png)
 
 ___
 
