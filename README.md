@@ -58,7 +58,7 @@ ___
 
 * After its done we should see a card with three labels: the Training, Validation, and Evaluation. Training refers to the percentage of training data Xcode was successfully able to train. This should read 100%. 
 
-While training, Xcode distributes the training data into 80-20. After training 80% of training data, Xcode runs the     classifier on the remaining 20%. This is what Validation refers to: the percentage of training images the classifier was   able to get right. Usually, this can vary because Xcode may not always split the same data
+   While training, Xcode distributes the training data into 80-20. After training 80% of training data, Xcode runs the     classifier on the remaining 20%. This is what Validation refers to: the percentage of training images the classifier was   able to get right. Usually, this can vary because Xcode may not always split the same data
 
 ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vison-Object-Classifier-Lightweight/blob/master/Images/model%20accuracy%20after%20testing.png)
 
