@@ -4,8 +4,7 @@
 ![swift-version](https://img.shields.io/badge/swift-4.2-Orange.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-Lightgrey.svg)
 
-Core ML and Vision object classifier with an lightweight trained model.
-The model is trained and tested with Create ML straight from Xcode Playgrounds with the dataset I provided.
+Core ML and Vision object classifier with a lightweight trained model. The model is trained and tested with Create ML straight from Xcode Playgrounds with the dataset I provided.
 
 When I built my classifier I split the dataset into 80-20 ratio. Approximately 80% of the dataset goes to Training Data and the remaining goes to Testing Data. That way, the classifier has more data to train off of. This whole project is created completely programmatically without Storyboards and Interface Builder.
 
