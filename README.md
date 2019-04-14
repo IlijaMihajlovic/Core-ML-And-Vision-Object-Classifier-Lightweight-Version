@@ -42,7 +42,7 @@ ___
 
    On the other side is an image the model was unable to recognize and we get the following message through
 our classification label: I need more data!😬🔍.   
-This happened because the model was trained only to recognize only; dogs🐶, pandas🐼 and cats🐱.
+This happened because the model was trained only to recognize: dogs🐶, pandas🐼 and cats🐱.
 
    ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/catAndFlowers.png)
 ___
