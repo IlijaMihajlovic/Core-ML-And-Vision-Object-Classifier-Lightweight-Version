@@ -20,7 +20,7 @@ ___
 
 ## Requirements
 - Physical device! Because the simulator does not have a camera. 
-  Or you can use the simulators photo library and classify images from there
+  Or you can use the simulators photo library and classify images from there.
 - Swift 4.2
 - Xcode 9.2+
 - iOS 11.0+
