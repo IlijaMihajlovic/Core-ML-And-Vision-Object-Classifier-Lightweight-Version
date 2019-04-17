@@ -40,7 +40,7 @@ ___
 
 * Here when can see the spinner with the dimmed background, while our model is trying the classify the image we imported from the photo library.
 
-   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/spinner.png)
+   ![alt text]https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/spinner.png)
    
 ___   
    
