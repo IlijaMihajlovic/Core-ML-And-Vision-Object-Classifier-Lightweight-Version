@@ -35,7 +35,7 @@ ___
 
 * This the main screen with the custom toolbar, classification label and camera button.
 
-   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/Hand.png)
+   ![alt text](https://github.com/IlijaMihajlovic/Core-ML-And-Vision-Object-Classifier-Lightweight-Version/blob/master/Images/startScreen.png)
 ___
 
 * Here we can see the spinner with the dimmed background, while our model is trying the classify the image we imported from the photo library.
